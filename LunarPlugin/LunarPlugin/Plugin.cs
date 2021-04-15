@@ -4,7 +4,7 @@
 namespace LunarPlugin
 {
     // Do not change the class name
-	public class Plugin
+    public class Plugin
     {        
         // Plugin will not work with parameters e.g Execute(object obj1)
         public static void Execute()
