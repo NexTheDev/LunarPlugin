@@ -1,0 +1,6 @@
+C:\Users\noelt\Desktop\Projects\LunarPlugin\LunarPlugin\bin\Debug\LunarPlugin.dll
+C:\Users\noelt\Desktop\Projects\LunarPlugin\LunarPlugin\bin\Debug\LunarPlugin.pdb
+C:\Users\noelt\Desktop\Projects\LunarPlugin\LunarPlugin\obj\Debug\LunarPlugin.csprojAssemblyReference.cache
+C:\Users\noelt\Desktop\Projects\LunarPlugin\LunarPlugin\obj\Debug\LunarPlugin.csproj.CoreCompileInputs.cache
+C:\Users\noelt\Desktop\Projects\LunarPlugin\LunarPlugin\obj\Debug\LunarPlugin.dll
+C:\Users\noelt\Desktop\Projects\LunarPlugin\LunarPlugin\obj\Debug\LunarPlugin.pdb
